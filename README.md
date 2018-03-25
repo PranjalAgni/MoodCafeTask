@@ -12,7 +12,7 @@ Bootstrap
 MongoDB
 
 ** Installation **
-Just run a command <npm install> and it will install all the dependencies.
+Just run the command *npm install* and it will install all the dependencies.
 
 
 ** Design Patterns **
