@@ -1,0 +1,40 @@
+body {
+	background-image: url('../images/moodcafe-2.jpg');
+	background-size: cover;
+	background-position: center center;
+	position: relative;
+	top: 0;
+	bottom: 0;
+	height: 100vh;
+    z-index: -10;
+}
+
+
+
+
+.form-container {
+    position: absolute;
+    height: 400px;
+    width: 400px;
+    margin-left: 400px;
+    margin-top: 160px; 
+}
+
+
+.btn-modify {
+    margin-left: 120px; 
+}
+
+
+#emailHelp {
+    color: black;
+}
+
+
+#form-text {
+    font-size: 18px;
+}
+
+#form-input {
+    font-size: 22px;
+}
