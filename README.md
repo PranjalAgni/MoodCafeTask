@@ -1,22 +1,32 @@
 # MoodCafeTask
-Solution to the task given by the moodcafe
+Solution to the task given by the moodcafe.This is basically a form which uses MongoDB as the database.
+
+## Installation
+
+### Prerequisite
+* NodeJS
+* NPM
+
+To set up the project you need this:
+```
+npm install
+```
+
+## Built With
+* [NodeJS](https://nodejs.org/en/)
+* [HTML](https://www.w3.org/html/)
+* [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+* [Bootstrap](https://getbootstrap.com/)
+* [MongoDB](https://www.mongodb.com/)
 
 
-This is the  assignment for MoodCafe Internship
-
-** Technology Used **
-NodeJS
-HTML
-CSS
-Bootstrap
-MongoDB
-
-** Installation **
-Just run the command *npm install* and it will install all the dependencies.
+## Design Patterns 
+So I used simple concept of routing and used express as the server also for form validation I used express-validation and to save the data I used No-SQL(MongoDB) database
 
 
-** Design Patterns **
-*So I used simple concept of routing and used express as the server also for form validation I used express-validation and to save the data I used No-SQL(MongoDB) database*
+## Screenshots
+![screenshot 95](https://user-images.githubusercontent.com/26196076/39670909-33aee724-512c-11e8-9e70-e5fc52aaa916.png)
 
-** Author **
-Pranjal Agnihotri
+
+## Author 
+**Pranjal Agnihotri**
